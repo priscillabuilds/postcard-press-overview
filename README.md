@@ -21,4 +21,4 @@ Node.js, Express, Stripe (payments), JWT auth, transactional email, PostGrid (pr
 
 ## About this repo
 
-The source for Postcard Press isn't public — it's a live service with real payment and anti-fraud logic that I'd rather not hand to anyone poking at it. This repo exists as a case study: what the product does, how it's built, and that it's shipped and generating revenue.
+The source for Postcard Press isn't public as it's a live service with real payment and anti-fraud logic. This repo exists as a case study: what the product does, how it's built, and that it's shipped and generating revenue.
