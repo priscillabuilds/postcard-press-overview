@@ -6,6 +6,7 @@ Send a postcard as easily as you'd send a text. Pick a photo, write a message â€
 
 <p align="center">
   <img src="ui.png" height="400" alt="Postcard Press landing page" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="example.png" height="400" alt="A real Postcard Press postcard, printed and delivered" />
 </p>
 
