@@ -5,8 +5,8 @@ Send a postcard as easily as you'd send a text. Pick a photo, write a message â€
 **Live at [postcard-press.com](https://postcard-press.com)** â€” this is a live, paid product with real customers.
 
 <p align="center">
-  <img src="site.png" width="260" alt="Postcard Press landing page" />
-  <img src="track.png" width="260" alt="Track a postcard page" />
+  <img src="ui.png" width="320" alt="Postcard Press landing page" />
+  <img src="example.png" width="320" alt="A real Postcard Press postcard, printed and delivered" />
 </p>
 
 ## What it does
